@@ -1,0 +1,1 @@
+## both the imageProcessingService and uploadFileStatusService has their own readme files. Please read both of these readme files in individual services and start both the imageProcessingService and uploadFileStatusService before doing the image compression work
